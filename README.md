@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Ivan
-- 👀 I’m interested in computer science.
-- 🌱 Now I'm learning CS50 from scratch.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - venzel900@gmail.com
+
